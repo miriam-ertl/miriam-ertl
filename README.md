@@ -2,12 +2,13 @@
 
 I'm a professional designer. Currently I'm attending a bootcamp at neue fische.🐠
 It's all about web development. 
+
+---
 Luckily I love drinking coffee, which might help for the next few months.
- 🐸
 
-![My favorite animal](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/1024px-African_Bush_Elephant.jpg)
+![so cheers](https://images.unsplash.com/photo-1559496417-e7f25cb247f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80)
 
-**Elephants are**
+**ma **
 - huge
 - kind
 - strong
