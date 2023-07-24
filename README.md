@@ -15,12 +15,16 @@ hi frogs. 🐸
 
 [](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
-Hi :smiley: :wave:   , in the latest 62 commits :bug:, am I morning person ?
-| | | | |%|
-| --- | --- | --- | --- | --- |
-| :sunny: | Morning | (06.00-12.00] | [*************-------] | 65.00 |
-| :satisfied: | Daytime | (12.00-18.00] | [******--------------] | 34.00 |
-| :moon: | Evening | (18.00-00.00] | [--------------------] | 0.00 |
-| :sleeping: | Night | (00.00-06.00] | [--------------------] | 2.00 |
+
+And now I would like to know something about you.
+
+Hi there, 
+:smiley: :wave: :bug: Are you a morning person?
+| | | | 
+| --- | --- | --- | 
+| :sunny: | Morning |
+| :satisfied: | Daytime | 
+| :moon: | Evening | 
+| :sleeping: | Night | 
 
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
