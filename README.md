@@ -21,7 +21,7 @@ Luckily I love drinking coffee, which might help for the next few months.
 
 
 So, are you a morning person?
-:wave: smiley: :butterfly: 
+:wave: :smiley: :butterfly: 
 | | | | 
 | --- | --- | --- | 
 | Morning | :sunny: | :satisfied: | 
