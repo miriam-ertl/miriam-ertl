@@ -13,19 +13,13 @@ Luckily I love drinking coffee, which might help for the next few months.
 - giving workshops
 
 
----
-[](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 
-And now I would like to know something about you.
-
-Hi there, 
-:smiley: :wave: :bug: Are you a morning person?
+So, are you a morning person?
+:smiley: :wave: :bug: 
 | | | | 
 | --- | --- | --- | 
-| :sunny: | Morning |
-| :satisfied: | Daytime | 
-| :moon: | Evening | 
-| :sleeping: | Night | 
+| Morning | :sunny: | :satisfied: | 
+
 
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
