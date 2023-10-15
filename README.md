@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there
 
 I'm a professional designer. Currently I'm attending a bootcamp at neue fische.🐠
 It's all about web development. 
